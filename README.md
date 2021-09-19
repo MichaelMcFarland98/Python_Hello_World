@@ -3,8 +3,6 @@
 I am starting to create projects and add them here for my portfolio.
 What better project to start then Hello World?!
 
-* [Youtube Video](https://www.python.org/)
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
